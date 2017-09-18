@@ -148,7 +148,6 @@ h3 {
 /* Add some padding inside the card container */
 .projects-container {
     padding: 2px 16px;
-    height: 5vh
 }
 
 .project-img{
@@ -156,7 +155,9 @@ h3 {
   border-bottom: 2px solid black;
 }
 
-
+.portfolio_p {
+  height: 55px;
+}
 
 /* iphone media query */
 @media only screen
