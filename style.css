@@ -148,6 +148,7 @@ h3 {
 /* Add some padding inside the card container */
 .projects-container {
     padding: 2px 16px;
+    height: 5vh
 }
 
 .project-img{
@@ -457,4 +458,3 @@ and (max-device-width : 1366px) {
   }
 
 }
-
